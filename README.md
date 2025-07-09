@@ -3,7 +3,7 @@
 A modern, responsive weather forecast app built with JavaScript, HTML, and Tailwind CSS. It fetches weather data from WeatherAPI and displays current and extended forecasts.
 
 ## Screenshot
-
+![image](https://github.com/user-attachments/assets/f65818f8-d7fa-4840-82aa-08bbf24b49fa)
 
 ## Live Preview
 https://forecastgenie.netlify.app/
